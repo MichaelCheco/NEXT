@@ -1,7 +1,7 @@
 import {withRouter} from 'next/router'
 import Layout from '../comps/Layout'
 
-const Content =  withRouter((props) => (
+const Content = withRouter((props) => (
     <div>
         <h1>{props.router.query.title}</h1>
         <p>This is the blog post content.</p>
