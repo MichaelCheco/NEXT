@@ -1,7 +1,8 @@
-import Header from '../comps/Header'
+import Layout from '../comps/Layout'
 export default () => (
-    <div>
-        <Header />
+    <Layout>
+
     <p>Hello NEXT.js</p>
-    </div>
+    </Layout>
+    
 )
