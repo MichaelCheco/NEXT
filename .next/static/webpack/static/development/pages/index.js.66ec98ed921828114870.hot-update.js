@@ -16,40 +16,34 @@ __webpack_require__.r(__webpack_exports__);
 var _jsxFileName = "/Users/michaelcheco/hello-next/pages/index.js";
 
 
-
-var Index = function Index() {
+/* harmony default export */ __webpack_exports__["default"] = (function () {
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 3
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 4
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+  }, "Hello NEXT.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
     href: "/about",
-    style: {
-      fontSize: 20
-    },
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6
     },
     __self: this
-  }, "About Page")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 8
-    },
-    __self: this
-  }, "Hello Next.js"));
-};
-
-/* harmony default export */ __webpack_exports__["default"] = (Index);
+  }, "About")));
+});
     (function (Component, route) {
       if(!Component) return
       if (false) {}
@@ -73,4 +67,4 @@ var Index = function Index() {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.5320c3ff55080792dc29.hot-update.js.map
+//# sourceMappingURL=index.js.66ec98ed921828114870.hot-update.js.map

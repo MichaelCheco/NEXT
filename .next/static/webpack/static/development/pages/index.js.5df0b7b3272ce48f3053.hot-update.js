@@ -971,24 +971,21 @@ __webpack_require__.r(__webpack_exports__);
 var _jsxFileName = "/Users/michaelcheco/hello-next/pages/index.js";
 
 
-
-var Index = function Index() {
+/* harmony default export */ __webpack_exports__["default"] = (function () {
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 4
+      lineNumber: 3
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 5
+      lineNumber: 4
     },
     __self: this
-  }, "Hello Next.js"));
-};
-
-/* harmony default export */ __webpack_exports__["default"] = (Index);
+  }, "Hello NEXT.js"));
+});
     (function (Component, route) {
       if(!Component) return
       if (false) {}
@@ -1012,4 +1009,4 @@ var Index = function Index() {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.de660ec87a8a4d00d261.hot-update.js.map
+//# sourceMappingURL=index.js.5df0b7b3272ce48f3053.hot-update.js.map
